@@ -76,7 +76,7 @@ Seshat suporta os seguintes provedores de IA:
 
     Ou, alternativamente defina as variáveis de ambiente em um arquivo `.env`:
     ```bash
-    AI_PROVIDER=deepseek|claude|ollama 
+    AI_PROVIDER=deepseek|claude|ollama|openai
     API_KEY=sua_chave_aqui 
     AI_MODEL=seu-modelo
     ```
